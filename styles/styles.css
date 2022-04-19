@@ -1,0 +1,25 @@
+form{
+    width: fit-content;
+    height: fit-content;
+    border: 5px solid grey;
+    padding: 10px;
+    background-color: blanchedalmond;
+    margin-left: 20px;
+}
+table{
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 1em;
+}
+table td, table th {
+    border: 1px solid grey;
+    padding: 10px;
+    margin: 10px;
+}
+h1{
+    margin-left: 10px;
+}
+body{
+    background-image: url(../golden-clouds-duncan1890.jpg);
+}
